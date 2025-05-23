@@ -39,6 +39,6 @@ Here’s what I use to build cool stuff:
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%230077B5?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nisargakadam.github.io) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nisarga-kadam/)  
-[![Email](https://img.shields.io/badge/Email-hey@nisarga.dev-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nisargakadam@gmail.com)
+[![Email](https://img.shields.io/badge/Email-nisargakadam@gmail.com-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nisargakadam@gmail.com)
 
 ---
