@@ -18,7 +18,7 @@ Here’s what I use to build cool stuff:
 
 ## 📂 Featured Projects
 
-### 🏀 [NBA Win Predictor](https://github.com/nisargakadam/nba-ecf-win-predictor)
+### 🏀 [NBA Eastern Conference Finals Win Predictor](https://github.com/nisargakadam/nba-ecf-win-predictor)
 - Predicting NBA playoff game outcomes using `nba_api`, `scikit-learn`, and game-day stats.
 -  Includes line plots of team trends and win probabilities!
 
