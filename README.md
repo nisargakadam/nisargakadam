@@ -3,7 +3,7 @@
 Welcome to my data playground! I’m a Computer Science grad student with a background in Social Data Analytics — passionate about data-driven projects at the intersection of public policy, sports analytics, and AI for social good 🏛️🏀
 
 You’ll usually find me:
-- 🏀 Building ML models that predict Knicks game outcomes
+- 🏀 Building ML models that predict NBA game outcomes
 - 💻 visualizing complex data in Tableau or Python
 - 🌇 thinking about how tech can empower local communities
 
