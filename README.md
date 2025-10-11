@@ -1,4 +1,4 @@
-# hey, I'm Nisarga! 🌱📊✨
+# Hey, I'm Nisarga! 🌱📊✨
 
 Welcome to my data playground! I’m a Computer Science grad student with a background in Social Data Analytics — passionate about data-driven projects at the intersection of public policy, sports analytics, and AI for social good 🏛️🏀
 
