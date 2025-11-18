@@ -1,4 +1,4 @@
-# Hi, I'm Nisarga! 👋  
+# Hi, I'm Nisarga! ✨ 
 ### AI Security · Machine Learning · Data Systems
 
 I’m a CS graduate student and data analyst focused on **AI trust, integrity, and model reliability**.  
@@ -13,15 +13,15 @@ My work sits at the intersection of:
 
 ## 🔥 Featured Projects
 
-### 🛡 Fake Review Detection (AI Trust & Integrity)  
+###  Fake Review Detection (AI Trust & Integrity)  
 Built an NLP + HuggingFace BLAiR pipeline detecting fraudulent Amazon reviews (81% F1).  
 Identified suspicious linguistic patterns and visualized anomaly clusters in Tableau.
 
-### 🏀 NBA Playoff Predictor  
+###  NBA Playoff Predictor  
 Trained a Random Forest classifier on 96+ playoff logs to identify high-impact KPIs, outliers,  
 and pattern stability across teams.
 
-### 📊 Government Spending & FLFP  
+###  Government Spending & FLFP  
 Applied Ridge Regression + grid search while reinforcing data integrity  
 (multicollinearity checks, repeatable preprocessing, interpretable coefficients).
 
