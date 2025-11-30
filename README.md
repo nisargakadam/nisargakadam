@@ -15,11 +15,11 @@ I love blending rigorous analysis with creativity, and I have a strong drive to 
 ---
 
 # 🌱 I’m currently:
-👩‍💻 **Studying** adversarial ML, AI security, and applied ML systems  
-👩‍💻 **Building** projects around anomaly detection, financial AI security, & data integrity  
-🌱 **Sharpening** my foundations in deep learning, cloud (Azure), and secure AI deployment  
-👯 **Looking to collaborate** on applied ML, data integrity, or AI safety projects  
-🧪 **Experimenting** with ways to break—and then harden—ML models  
+- 👩‍💻 **Studying** adversarial ML, AI security, and applied ML systems  
+- 👩‍💻 **Building** projects around anomaly detection, financial AI security, & data integrity  
+- 🌱 **Sharpening** my foundations in deep learning, cloud (Azure), and secure AI deployment  
+- 👯 **Looking to collaborate** on applied ML, data integrity, or AI safety projects  
+- 🧪 **Experimenting** with ways to break—and then harden—ML models  
 
 ---
 
