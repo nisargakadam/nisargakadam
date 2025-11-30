@@ -4,14 +4,14 @@
 I’m a CS graduate student and data analyst focused on **AI trust, integrity, and model reliability**.  
 My work sits at the intersection of:
 
-- 🛡 **AI Security:** evaluating model robustness, hallucinations, and adversarial behavior  
-- 🔍 **Data Integrity:** anomaly detection, fraud identification, reproducible pipelines  
-- 📊 **Machine Learning:** predictive modeling, NLP, and real-world analytics  
-- ⚙️ **System Reliability:** stress-testing model behavior using structured datasets  
+- **AI Security:** evaluating model robustness, hallucinations, and adversarial behavior  
+- **Data Integrity:** anomaly detection, fraud identification, reproducible pipelines  
+- **Machine Learning:** predictive modeling, NLP, and real-world analytics  
+- **System Reliability:** stress-testing model behavior using structured datasets  
 
 ---
 
-## 🔥 Featured Projects
+##  Featured Projects
 
 ###  Fake Review Detection (AI Trust & Integrity)  
 Built an NLP + HuggingFace BLAiR pipeline detecting fraudulent Amazon reviews (81% F1).  
@@ -45,4 +45,4 @@ Applied Ridge Regression + grid search while reinforcing data integrity
 
 
 ### ⚡ Fun fact:
-I break models *on purpose* — and then make them stronger.
+I love to break models *on purpose* — and then make them stronger.
