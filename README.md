@@ -1,10 +1,5 @@
 # 🌟 Hi there!
 
-<p align="center">
-  <!-- Profile Views Badge (Pink) -->
-  <img src="https://komarev.com/ghpvc/?username=nisargakadam&color=ffb7c5&style=for-the-badge" alt="Profile views" />
-</p>
-
 I’m **Nisarga Kadam**, a Computer Science graduate student, AI security enthusiast, and data analyst passionate about building **trustworthy, resilient, and integrity-driven AI systems**.
 
 Having started working with data, analytics, and applied machine learning early in my academic journey—and pairing it with real-world experience across both startups and agency environments—I’ve grown obsessed with understanding how AI systems behave, break, fail, and adapt. My work lives at the intersection of:
@@ -30,28 +25,6 @@ I love blending rigorous analysis with creativity, and I have a strong drive to 
 
 ---
 
-# 💜 GitHub Stats & Activity
-
-<p align="center">
-  <!-- GitHub Stats -->
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nisargakadam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  
-  <!-- Streaks -->
-  <img width="48%" src="https://streak-stats.demolab.com?user=nisargakadam&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <!-- Top Languages -->
-  <img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nisargakadam&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <!-- Animated Visitor Counter -->
-  <img src="https://profile-counter.glitch.me/nisargakadam/count.svg" />
-</p>
-
----
-
 # 🔭 Recent Work
 
 ### **Market Anomaly Detection Engine (FinTech + AI Security)**  
@@ -70,3 +43,10 @@ I love blending rigorous analysis with creativity, and I have a strong drive to 
 
 # ⚡ Fun Fact  
 I love intentionally breaking models—hallucinating, probing, stress-testing, adversarial poking, and then making them stronger, safer, and more aligned.
+
+---
+
+<p align="center">
+  <!-- Profile Views Badge (Pink) -->
+  <img src="https://komarev.com/ghpvc/?username=nisargakadam&color=ffb7c5&style=for-the-badge" alt="Profile views" />
+</p>
