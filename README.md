@@ -1,4 +1,4 @@
-# 🌟 Hi there 👋  
+# 🌟 Hi there!
 I’m **Nisarga Kadam**, a Computer Science graduate student, AI security enthusiast, and data analyst passionate about building **trustworthy, resilient, and integrity-driven AI systems**.
 
 Having started working with data, analytics, and applied machine learning early in my academic journey—and pairing it with real-world experience across both startups and agency environments—I’ve grown obsessed with understanding how AI systems behave, break, fail, and adapt. My work lives at the intersection of:
