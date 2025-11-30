@@ -8,10 +8,9 @@ Having started working with data, analytics, and applied machine learning early 
 - **Machine Learning** — NLP, predictive modeling, systematic evaluation  
 - **Systems Thinking** — stress-testing model behavior in real environments  
 
-As AI becomes embedded in every business process, I’m motivated by one goal:  
-**to help build systems that are safer, smarter, and more interpretable.**
+As AI becomes embedded in every business process, I’m motivated by one goal: to help build systems that are safer, smarter, and more interpretable.
 
-I love blending rigorous analysis with creativity, and I have a strong drive to turn complex technical problems into clear, actionable solutions that bridge the gap between **technology and business objectives**.
+I love blending rigorous analysis with creativity, and I have a strong drive to turn complex technical problems into clear, actionable solutions that bridge the gap between technology and business objectives.
 
 ---
 
@@ -27,16 +26,16 @@ I love blending rigorous analysis with creativity, and I have a strong drive to 
 # 🔭 Recent Work
 
 ### **Market Anomaly Detection Engine (FinTech + AI Security)**  
-Built a Microsoft stock anomaly detector using time-series engineering + Isolation Forest to surface unusual activity patterns, volume/volatility spikes, and abnormal trading regimes.
+- Built a Microsoft stock anomaly detector using time-series engineering + Isolation Forest to surface unusual activity patterns, volume/volatility spikes, and abnormal trading regimes.
 
 ### **Fake Review Detection — AI Trust & Integrity**  
-Developed an NLP pipeline (HuggingFace BLAiR) to identify fraudulent Amazon reviews (81% F1), uncovering deceptive linguistic patterns and integrity risks.
+- Developed an NLP pipeline (HuggingFace BLAiR) to identify fraudulent Amazon reviews (81% F1), uncovering deceptive linguistic patterns and integrity risks.
 
 ### **NBA Playoff Predictor**  
-Trained a Random Forest model to analyze 96+ playoff logs, identifying high-impact KPIs and outlier patterns across teams.
+- Trained a Random Forest model to analyze 96+ playoff logs, identifying high-impact KPIs and outlier patterns across teams.
 
 ### **Economic Modeling — Government Spending & FLFP**  
-Applied Ridge Regression with rigorous integrity checks (multicollinearity, reproducible preprocessing, interpretable coefficients).
+- Applied Ridge Regression with rigorous integrity checks (multicollinearity, reproducible preprocessing, interpretable coefficients).
 
 ---
 
