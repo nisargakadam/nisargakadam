@@ -14,11 +14,13 @@ I work across:
 
 ## Recent Work
 
+**[Adobe Stock Analysis & Risk Modeling](https://github.com/nisargakadam/Adobe-Stock-Price-Trends-Risk-Signals-Analysis)** → Time series analysis with regime detection and predictive ML. Random Forest achieved 74% accuracy in predicting next-day movements. Calculated the Sharpe ratio, max drawdown, and identified that intraday volatility is 30x more predictive than any other feature.
+
+**[Predicting Student Test Scores](https://github.com/nisargakadam/Kaggle-Playground-S6E1-Predicting-Student-Test-Scores)** → XGBoost + Ridge stacking for exam score prediction. 5-fold CV with out-of-fold predictions feeding a meta-model. Engineered features with proper preprocessing pipelines. RMSE of 8.76.
+
 **[Fake Review Detection](https://github.com/nisargakadam/Influence-of-Fake-Reviews-on-Quality-Amazon-Product-Recommendation)** → NLP pipeline for Amazon reviews. 81% F1 score detecting fraud patterns. Tableau dashboards to visualize linguistic + behavioral anomalies.
 
-**[NBA Playoff Predictor](https://github.com/nisargakadam/nba-ecf-win-predictor)** → Random Forest on 96+ playoff games. Feature analysis to understand what actually drives wins when it matters.
 
-**[Government Spending & Labor Study](https://github.com/nisargakadam/Government-Spending-on-FLPR)** → Ridge regression study on policy impact. Clean preprocessing, multicollinearity checks, visual storytelling.
 
 ## Stack
 
