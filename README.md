@@ -1,4 +1,4 @@
-# Hi, I'm Nisarga 👋
+# Hi, I'm Nisarga ✨
 
 I turn messy data into decisions people actually use.
 
